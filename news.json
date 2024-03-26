@@ -2,11 +2,13 @@
     {
       "title": "New Feature Released!",
       "description": "We've launched a new feature that enhances user experience.",
-      "date": "2024-03-20"
+      "date": "2024-03-20",
+      "image": "https://images.unsplash.com/photo-1618388810903-840bb0d15ea5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "title": "Important Announcement",
       "description": "Stay tuned for an upcoming event!",
-      "date": "2024-03-19"
+      "date": "2024-03-19",
+      "image": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
