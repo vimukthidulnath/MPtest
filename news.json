@@ -1,56 +1,84 @@
-[
+{
+  "news": [
     {
-        "title": "New Feature Released!",
-        "description": "We've launched a new feature that enhances user experience.",
-        "date": "2024-03-20",
-        "image": "https://images.unsplash.com/photo-1618388810903-840bb0d15ea5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "title": "New Feature Released!",
+      "description": "We've launched a new feature that enhances user experience.",
+      "date": "2024-03-20",
+      "image": "https://images.unsplash.com/photo-1618388810903-840bb0d15ea5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "title": "Important Announcement",
-        "description": "Stay tuned for an upcoming event!",
-        "date": "2024-03-19",
-        "image": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "title": "Important Announcement",
+      "description": "Stay tuned for an upcoming event!",
+      "date": "2024-03-19",
+      "image": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "title": "System Maintenance",
-        "description": "Scheduled maintenance will take place on April 1st.",
-        "date": "2024-03-18",
-        "image": "https://img.freepik.com/premium-vector/system-maintenance-troubleshooting-illustration-website-constructions-server-update-repairs_185038-851.jpg?w=826"
+      "title": "System Maintenance",
+      "description": "Scheduled maintenance will take place on April 1st.",
+      "date": "2024-03-18",
+      "image": "https://img.freepik.com/premium-vector/system-maintenance-troubleshooting-illustration-website-constructions-server-update-repairs_185038-851.jpg?w=826"
     },
     {
-        "title": "User Feedback Survey",
-        "description": "We value your feedback! Please fill out our survey.",
-        "date": "2024-03-17",
-        "image": "https://img.freepik.com/free-photo/collage-customer-experience-concept_23-2149367132.jpg?w=826&t=st=1719339972~exp=1719340572~hmac=6a8c465cc9e0f62c8d478bd4d6545a3e2b25b8605869e75a8c36dbe4afae4283"
+      "title": "User Feedback Survey",
+      "description": "We value your feedback! Please fill out our survey.",
+      "date": "2024-03-17",
+      "image": "https://img.freepik.com/free-photo/collage-customer-experience-concept_23-2149367132.jpg?w=826&t=st=1719339972~exp=1719340572~hmac=6a8c465cc9e0f62c8d478bd4d6545a3e2b25b8605869e75a8c36dbe4afae4283"
     },
     {
-        "title": "New Partnership Announced",
-        "description": "We are excited to announce our new partnership with TechCorp.",
-        "date": "2024-03-16",
-        "image": "https://img.freepik.com/free-photo/partnership-handshake-innovation-corporate-business-concept_53876-104048.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719273600&semt=sph"
+      "title": "New Partnership Announced",
+      "description": "We are excited to announce our new partnership with TechCorp.",
+      "date": "2024-03-16",
+      "image": "https://img.freepik.com/free-photo/partnership-handshake-innovation-corporate-business-concept_53876-104048.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719273600&semt=sph"
     },
     {
-        "title": "Feature Update",
-        "description": "We've updated our app to include new functionalities.",
-        "date": "2024-03-15",
-        "image": "https://img.freepik.com/free-vector/app-installation-illustration-concept_114360-966.jpg?size=626&ext=jpg&ga=GA1.1.690464169.1719339574&semt=ais_user"
+      "title": "Feature Update",
+      "description": "We've updated our app to include new functionalities.",
+      "date": "2024-03-15",
+      "image": "https://img.freepik.com/free-vector/app-installation-illustration-concept_114360-966.jpg?size=626&ext=jpg&ga=GA1.1.690464169.1719339574&semt=ais_user"
     },
     {
-        "title": "CEO Message",
-        "description": "A message from our CEO regarding our future plans.",
-        "date": "2024-03-14",
-        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "title": "CEO Message",
+      "description": "A message from our CEO regarding our future plans.",
+      "date": "2024-03-14",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "title": "App Performance Improvements",
-        "description": "Our app is now faster and more reliable than ever!",
-        "date": "2024-03-13",
-        "image": "https://img.freepik.com/free-photo/top-view-business-items-with-growth-chart-hands-holding-arrow_23-2148780566.jpg?size=626&ext=jpg&ga=GA1.1.690464169.1719339574&semt=ais_user"
+      "title": "App Performance Improvements",
+      "description": "Our app is now faster and more reliable than ever!",
+      "date": "2024-03-13",
+      "image": "https://img.freepik.com/free-photo/top-view-business-items-with-growth-chart-hands-holding-arrow_23-2148780566.jpg?size=626&ext=jpg&ga=GA1.1.690464169.1719339574&semt=ais_user"
     },
     {
-        "title": "Security Update",
-        "description": "We've enhanced the security of our platform.",
-        "date": "2024-03-12",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-vpn-illustration_23-2149229495.jpg?t=st=1719340641~exp=1719344241~hmac=f3e2c5eda21af365d49fc87c5b6157ae7be5b9d7ea733f220828c02e56ea8b02&w=826"
+      "title": "Security Update",
+      "description": "We've enhanced the security of our platform.",
+      "date": "2024-03-12",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-vpn-illustration_23-2149229495.jpg?t=st=1719340641~exp=1719344241~hmac=f3e2c5eda21af365d49fc87c5b6157ae7be5b9d7ea733f220828c02e56ea8b02&w=826"
     }
-]
+  ],
+  "announcements": [
+    {
+      "title": "Annual Company Meeting",
+      "description": "Our annual company meeting will be held on July 10th.",
+      "date": "2024-06-20",
+      "author": "John Doe"
+    },
+    {
+      "title": "Holiday Schedule",
+      "description": "The office will be closed for the holidays from December 24th to January 2nd.",
+      "date": "2024-06-18",
+      "author": "Jane Smith"
+    },
+    {
+      "title": "New Office Location",
+      "description": "We are moving to a new office location on August 1st.",
+      "date": "2024-06-15",
+      "author": "Tom Johnson"
+    },
+    {
+      "title": "Employee of the Month",
+      "description": "Congratulations to Sarah Brown for being selected as the employee of the month!",
+      "date": "2024-06-10",
+      "author": "HR Department"
+    }
+  ]
+}
