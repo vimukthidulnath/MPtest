@@ -57,28 +57,40 @@
   ],
   "announcements": [
     {
-      "title": "Annual Company Meeting",
-      "description": "Our annual company meeting will be held on July 10th.",
-      "date": "2024-06-20",
-      "author": "John Doe"
+      "title": "Office Closed for Public Holiday",
+      "description": "Our office will be closed on April 5th for the public holiday.",
+      "date": "2024-03-10",
+      "author": "Admin"
     },
     {
-      "title": "Holiday Schedule",
-      "description": "The office will be closed for the holidays from December 24th to January 2nd.",
-      "date": "2024-06-18",
-      "author": "Jane Smith"
+      "title": "Team Building Activity",
+      "description": "Join us for a team-building activity on April 12th.",
+      "date": "2024-03-09",
+      "author": "HR Department"
     },
     {
-      "title": "New Office Location",
-      "description": "We are moving to a new office location on August 1st.",
-      "date": "2024-06-15",
-      "author": "Tom Johnson"
+      "title": "New Interns",
+      "description": "Welcome our new interns starting this week.",
+      "date": "2024-03-08",
+      "author": "HR Department"
+    },
+    {
+      "title": "Quarterly Financial Report",
+      "description": "The quarterly financial report will be published on April 15th.",
+      "date": "2024-03-07",
+      "author": "Finance Department"
     },
     {
       "title": "Employee of the Month",
-      "description": "Congratulations to Sarah Brown for being selected as the employee of the month!",
-      "date": "2024-06-10",
-      "author": "HR Department"
+      "description": "Congratulations to John Doe for being named Employee of the Month!",
+      "date": "2024-03-06",
+      "author": "Admin"
+    },
+    {
+      "title": "New Health and Safety Guidelines",
+      "description": "Please review the new health and safety guidelines issued today.",
+      "date": "2024-03-05",
+      "author": "Safety Officer"
     }
   ]
 }
